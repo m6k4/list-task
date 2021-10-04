@@ -21,7 +21,7 @@ Każdy element listy powinien być ostylowany oraz powinien zawierać następuj�
 * image
 * created
 
-Dodatkowym plusem będzie stworzenie paginacji oraz filtrowania aktualnej strony po którymś z parametrów oraz posortowanie listy alfabetycznie.
+Dodatkowym plusem będzie stworzenie paginacji, filtrowania aktualnej strony po którymś z parametrów oraz posortowanie listy alfabetycznie.
 
 Możesz wykorzystać bibliotekę komponentów **Element UI**.
 
