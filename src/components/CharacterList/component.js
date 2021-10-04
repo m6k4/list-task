@@ -1,6 +1,6 @@
 // @vue/component
 export default {
-  name: 'PlanetsList',
+  name: 'CharacterList',
   data () {
     return {}
   }

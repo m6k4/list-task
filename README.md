@@ -4,27 +4,26 @@
 ```
 yarn install
 ```
-## Lista planet - vue.js
+## Lista postaci - vue.js
 
-Zadanie polega na utworzeniu strony wyświetlającej listę planet. 
+Zadanie polega na utworzeniu strony wyświetlającej listę postaci.
 
-Lista powinna zostać pobrana z zewnętrznego API znajdującego się pod tym adresem: https://swapi.dev/api/planets.
+Lista powinna zostać pobrana z zewnętrznego API znajdującego się pod tym adresem: https://rickandmortyapi.com/documentation.
 
 Do pobrania danych z API wykorzystaj **AJAX**.
 
-Zapytania z API idą czasem bardzo długo, więc należałoby dodać loading. 
-
 Każdy element listy powinien być ostylowany oraz powinien zawierać następujące parametry:
 * name
-* rotation_period
-* climate
-* gravity
+* status
+* species
+* type
+* gender
+* image
 * created
-* url
 
 Dodatkowym plusem będzie stworzenie paginacji oraz filtrowania aktualnej strony po którymś z parametrów oraz posortowanie listy alfabetycznie.
 
-Możesz wykorzystać bibliotekę komponentów **Element UI**. 
+Możesz wykorzystać bibliotekę komponentów **Element UI**.
 
 Finalny projekt zapisz jako repozytorium w w githubie i udostępnij nam link.
 

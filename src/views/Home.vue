@@ -1,16 +1,16 @@
 <template>
   <div class="home">
-    <PlanetsList />
+    <CharacterList />
   </div>
 </template>
 
 <script>
-import PlanetsList from '@/components/PlanetsList'
+import CharacterList from '@/components/CharacterList'
 
 export default {
   name: 'Home',
   components: {
-    PlanetsList
+    CharacterList
   }
 }
 </script>
